@@ -25,8 +25,15 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 3. Open `Delhi-NCR Housing Price Prediction.ipynb` in Jupyter Notebook or JupyterLab.
 4. Run the notebook cells to reproduce the analysis, model training, and predictions.
 
+
 ---
 
-**Author:** [Your Name]
+## Contributing
 
-**Note:** The dataset is not included in this repository due to size and licensing. Please download `Delhi.csv` from Kaggle if needed. 
+Contributions are welcome!
+
+---
+
+## License
+
+Distributed under the MIT License.  
