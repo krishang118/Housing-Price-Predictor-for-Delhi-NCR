@@ -8,19 +8,15 @@ This project predicts housing prices in the Delhi-NCR region using machine learn
 
 ## Dataset
 - **File:** `Delhi.csv`
-- **Description:** Contains property listings with features such as price, area, address, latitude, longitude, bedrooms, bathrooms, status, furnished status, type of building, and more.
+- **Description:** Contains property listings with features such as price, area, address, latitude, longitude, bedrooms, bathrooms, status (of construction), furnished status, type of building, and more.
 
 ## How to Run
 1. Clone this repository on your local machine.
-2. Run and execute the `Delhi-NCR Housing Price Prediction.ipynb` Jupyter Notebook, with `Delhi.csv` dataset file present in the same directory.
-
----
+2. Run and execute the `Delhi-NCR Housing Price Prediction.ipynb` Jupyter Notebook, with the `Delhi.csv` dataset file present in the same directory.
 
 ## Contributing
 
 Contributions are welcome!
-
----
 
 ## License
 
